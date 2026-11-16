@@ -1,1 +1,2 @@
 # Rese-as-de-pel-culas
+Film Junky Union es una nueva comunidad vanguardista para los aficionados de las películas clásicas, está desarrollando un sistema para filtrar y categorizar reseñas de películas. El objetivo del proyecto es entrenar un modelo para detectar las críticas negativas de forma automática. Para lograrlo, se proporciona un conjunto de datos de reseñas de películas de IMDB con leyendas de polaridad para construir un modelo para clasificar las reseñas positivas y negativas. La metrica solicitada es alcanzar un valor de al menos 0.85 de F1.
